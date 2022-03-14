@@ -1,4 +1,4 @@
-### Let me introduce my self. My name is Luiz Otávio
+### Let me introduce myself. My name is Luiz Otávio
 
 I'm from Rio De janeiro 🇧🇷. I enjoy learn about technology and of course, as a brazilian, I love soccer.
 
