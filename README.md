@@ -5,7 +5,7 @@ I'm from Rio De janeiro 🇧🇷. I enjoy learn about technology and of course, 
 
 <div align="center">
   <a href="https://github.com/LOtaviop">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LOtaviop&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LOtaviop&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOtaviop&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
   <div style="display: inline_block"><br>
